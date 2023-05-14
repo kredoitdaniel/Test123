@@ -45,4 +45,5 @@
         echo "Author: " . $book->getAuthor() . "<br>";
         echo "Price: " .$book->getPrice();
     }
+    // sample changes
 ?>
